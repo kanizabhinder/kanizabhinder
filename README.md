@@ -14,24 +14,17 @@ I'm currently diving deep into the world of **Cloud Computing** ☁️ and explo
 
 ---
 
-##  Connect with Me
+#### 📫 Connect with Me
 
 - 🔗 [GitHub](https://github.com/your-username)  
--  Email: your-email@example.com *(replace this)*
+- 📧 Email: kinzajamil1441@gmail.com
 
 ---
 
-##  GitHub Stats
 
-![Kinza's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
 
----
 
-##  Fun Fact
 
-> I love learning by doing! Cloud labs and real deployment challenges excite me more than theory. 💡
-
----
 
 
 <!--
